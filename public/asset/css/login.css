@@ -1,0 +1,18 @@
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+.card {
+    background-color: #fff;
+    border: none;
+}
+
+.input-group-text {
+    background-color: #fff;
+    border: 1px solid #ced4da;
+    border-right: none;
+}
+
+input.form-control {
+    border-left: none;
+}
